@@ -3,11 +3,12 @@ import FooterVue from '../components/layout/Footer.vue'
 </script>
 
 <template>
-  <main class="pt-10 px-28">
-      <body>
-        <h2 class="sm:text-1xl md:text-lg lg:text-xl font-nunito-sans text-blanc-text pb-10">Terms & conditions</h2>
+  <main>
   
-      <div class="w-1/2">
+  <body class="px-28 mt-24">
+      <h2 class="sm:text-lg md:text-lg lg:text-xl font-nunito-sans text-blanc-text pb-10">Terms & Service</h2>
+
+      <div class=" xl:w-3/5 sm:w-plein md:w-full lg:w-1/2">
   
       <h4 class="text-white pb-20 font-bold">CGU</h4>
   

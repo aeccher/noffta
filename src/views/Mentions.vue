@@ -3,12 +3,13 @@ import FooterVue from '../components/layout/Footer.vue'
 </script>
 
 <template>
-  <main class="pt-10 px-28">
+  <main>
 
-    <body>
-      <h2 class="sm:text-1xl md:text-lg lg:text-xl font-nunito-sans text-blanc-text pb-10">Privacy Policy</h2>
+    <body class="px-28 mt-24">
+      <h2 class="sm:text-lg md:text-lg lg:text-xl font-nunito-sans text-blanc-text pb-10">Privacy Policy</h2>
 
-      <div class="w-1/2">
+      <div class=" xl:w-3/5 sm:w-plein md:w-full lg:w-1/2">
+
         <p class="text-white pb-6">Within the framework of its activity of , the Noffta Company, represented by
           Moramarco Lucas, Eccher Agathe, Gillot Marion and Meyer Arthur,
           is brought to collect and treat the personal data of its visitors. The activities for which the company is led

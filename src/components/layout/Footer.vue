@@ -126,13 +126,13 @@
           <h4 class="mb-6 text-sm font-semibold text-white uppercase  ">Contact</h4>
           <ul class="text-gray-300 dark:text-gray-400">
             <li class="mb-3">
-              <Routerlink to="" class="hover:underline ">Help & Support</Routerlink>
+              <Routerlink to="/contact" class="hover:underline ">Help & Support</Routerlink>
             </li>
             <li class="mb-3">
-              <Routerlink to="" class="hover:underline">Contact us</Routerlink>
+              <Routerlink to="/contact" class="hover:underline">Contact us</Routerlink>
             </li>
             <li class="mb-3">
-              <Routerlink to="" class="hover:underline">CSupport us</Routerlink>
+              <Routerlink to="/contact" class="hover:underline">CSupport us</Routerlink>
             </li>
           </ul>
         </div>
@@ -158,7 +158,7 @@
     <div class="flex mr-20 pt-9">
       <div class="mx-20">
         <span class="text-sm text-gray-300 sm:text-center ">© 2023
-          <Routerlink to="https://noffta.com/" class="hover:underline"> Noffta </Routerlink> | All Rights Reserved.
+          <Routerlink to="http://noffta.com" class="hover:underline"> Noffta </Routerlink> | All Rights Reserved.
         </span>
       </div>
 
